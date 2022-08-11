@@ -1,9 +1,8 @@
 #pragma once
 
-// For use Hazel applications
-
 #include "Hazel/Application.h"
+#include <stdio.h>
 
-//------Entry point----------------
+// ---- ENTRY POINT --------------------
 #include "Hazel/EntryPoint.h"
-//-------------------------------
+// -----------------------------
